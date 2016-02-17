@@ -1,0 +1,28 @@
+name: Perform Productivity Solutions
+favicon: null
+layout_spectrum: 0.3184026316739619
+typography_spectrum: 0.012902182526886463
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6949348682537675
+  lightness: 0.47831687424331903
+  saturation: 0.20624896651133895
+  rhythmicContrast: 0.7165651409886777
+purpose: []
